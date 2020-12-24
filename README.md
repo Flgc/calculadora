@@ -4,4 +4,4 @@ Calculadora desenvolvida como atividade do Curso Completo de JavaScript na Udemy
 
 ### Projeto
 
-![myImage](https://github.com/Flgc/calculadora/blob/main/calculadora.png)
+![myImage](https://github.com/Flgc/calculadora/blob/main/calc.png)
